@@ -34,3 +34,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.  
+
+## Design References
+Wanderlust Explorer's UI is inspired by modern travel platforms, focusing on a clean, premium, and interactive user experience:
+1. **Airbnb Experiences**: Rounded cards, large imagery, clean sans-serif typography, and a subtle horizontal filtering system.
+2. **GetYourGuide**: Strong emphasis on the search bar and combined filters (Destination + Category) with an action-driven design.
+3. **Tripadvisor**: Clear "Save/Favorite" system (heart icon overlaying the top-right corner of images) and prominent ratings.
