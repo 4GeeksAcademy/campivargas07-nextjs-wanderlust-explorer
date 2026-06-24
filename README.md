@@ -35,8 +35,10 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.  
 
-## Design References
-Wanderlust Explorer's UI is inspired by modern travel platforms, focusing on a clean, premium, and interactive user experience:
-1. **Airbnb Experiences**: Rounded cards, large imagery, clean sans-serif typography, and a subtle horizontal filtering system.
-2. **GetYourGuide**: Strong emphasis on the search bar and combined filters (Destination + Category) with an action-driven design.
-3. **Tripadvisor**: Clear "Save/Favorite" system (heart icon overlaying the top-right corner of images) and prominent ratings.
+## Referencias de diseño
+La interfaz de usuario de Wanderlust Explorer se inspira en las plataformas de viajes modernas, centrándose en una experiencia de usuario limpia, de alta calidad e interactiva:
+1. **Airbnb Experiences**: Tarjetas redondeadas, imágenes grandes, tipografía sans-serif limpia y un sutil sistema de filtrado horizontal.
+
+2. **GetYourGuide**: Gran énfasis en la barra de búsqueda y filtros combinados (Destino + Categoría) con un diseño orientado a la acción.
+
+3. **Tripadvisor**: Sistema claro de "Guardar/Favorito" (icono de corazón superpuesto en la esquina superior derecha de las imágenes) y calificaciones destacadas.
